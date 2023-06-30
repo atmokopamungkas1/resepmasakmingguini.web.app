@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "resepmasakmingguini",	  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
